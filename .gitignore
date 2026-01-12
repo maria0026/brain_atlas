@@ -1,6 +1,7 @@
 .env
 plots/
+brain_structures_hearing_transformed/
 .venv
-.csv
+*.csv
 .txt
 .gz
