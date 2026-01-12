@@ -1,0 +1,6 @@
+.env
+plots/
+.venv
+.csv
+.txt
+.gz
